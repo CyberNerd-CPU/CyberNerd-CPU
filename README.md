@@ -5,13 +5,13 @@ Passionné par le développement logiciel, j'aime créer des applications perfor
 
 ## 🔧 Technologies & Outils  
 - **Back-end** : Spring Boot, Laravel  
-- **Front-end** : Angular, Bootstrap  
+- **Front-end** : Angular, Flutter  
 - **Base de données** : PostgreSQL  
-- **Autres** : API REST, Firebase, Authentification  
+- **Autres** : API REST, Firebase, Authentification, Jwt 
 
 ## 📫 Contact  
-- LinkedIn : [www.linkedin.com/in/francis-dagboh-82406a278](#)  
-- Email : [futurinov809@gmail.com](#)  
+- LinkedIn : [www.linkedin.com/in/francis-dagboh-dev](#)  
+- Email : [dagbohfrancis@gmail.com](#)  
 
 🚀 Toujours prêt à apprendre et à collaborer sur des projets passionnants !  
 
