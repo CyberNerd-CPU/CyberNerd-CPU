@@ -6,7 +6,7 @@ Passionné par le développement logiciel, j'aime créer des applications perfor
 ## 🔧 Technologies & Outils  
 - **Back-end** : Spring Boot, Laravel  
 - **Front-end** : Angular, Flutter  
-- **Base de données** : PostgreSQL  
+- **Base de données** : PostgreSQL, MySQL  
 - **Autres** : API REST, Firebase, Authentification, Jwt 
 
 ## 📫 Contact  
